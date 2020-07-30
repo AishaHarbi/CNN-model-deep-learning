@@ -1,1 +1,1 @@
-# CNN-model-deep-learning
+# Neural-networks-model-deep-learning
